@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
 
 namespace ExerciseToMySelf
 {
@@ -15,6 +14,7 @@ namespace ExerciseToMySelf
             Console.WriteLine(" hello world");
         }
 
+       
 
         static void Arrays()
         {
